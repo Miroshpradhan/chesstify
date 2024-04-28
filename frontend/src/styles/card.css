@@ -1,0 +1,54 @@
+.attractcard {
+    text-align: right;
+    margin-top: 20px;
+  }
+  .attractcard-container {
+    position: absolute;
+    top: 250px; 
+    right: 80px;
+  }
+  .buttons {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .attractcard h3{
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+.App-header {
+    background-color: #282c34;
+    background: linear-gradient(135deg, #0d0d0d, #444);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .gbutton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .login {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
